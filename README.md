@@ -1,9 +1,9 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Soumit+Sen+👋" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Soumit+Sen+%F0%9F%91%8B" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=AAAAAA&center=true&vCenter=true&width=700&lines=CS+Undergrad+%7C+AI%2FML+%26+Full-Stack+Developer+🤖;Building+intelligent%2C+production-ready+systems+🚀;FastAPI+•+React+•+NLP+•+GenAI+enthusiast+✨"alt="Rotating sentences" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=AAAAAA&center=true&vCenter=true&width=750&lines=CS+Undergrad+%7C+AI%2FML+%26+Full-Stack+Developer;Building+intelligent+production-ready+systems;FastAPI+%7C+React+%7C+NLP+%7C+GenAI+Enthusiast;AWS+Certified+%7C+KIIT+University+%7C+CGPA+8.82" alt="Typing SVG" />
 </p>
 
 <p align="center">
