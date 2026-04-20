@@ -1,4 +1,10 @@
-<h1 align="center">Hey, I'm Soumit Sen 👋</h1>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&duration=3000&pause=500&color=00BFFF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Soumit+Sen+👋" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=800&color=AAAAAA&center=true&vCenter=true&width=700&lines=CS+Undergrad+%7C+AI%2FML+%26+Full-Stack+Developer+🤖;Building+intelligent%2C+production-ready+systems+🚀;FastAPI+•+React+•+NLP+•+GenAI+enthusiast+✨" alt="Rotating sentences" />
+</p>
 
 <p align="center">
   <em>"I don't just build apps — I engineer intelligence into them. 🤖"</em>
