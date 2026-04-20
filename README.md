@@ -20,10 +20,9 @@
 
 I'm a **3rd-year B.Tech CS student at KIIT University** with a strong focus on building intelligent, production-ready systems. My work sits at the intersection of **Full-Stack Development**, **NLP**, and **Generative AI**.
 
-- 🎓 B.Tech CSE @ KIIT University | CGPA: **8.82**
+- 🎓 B.Tech CSE @ KIIT University 
 - 💼 Ex **AI/ML Intern** @ Pinnacle Labs
 - 🌍 Based in **Cuttack, India**
-- 🔭 Currently building: **Sentix** — sentiment analysis platform for app reviews
 - 🚀 Passionate about: LLMs, FastAPI microservices, and scalable SaaS products
 
 ---
@@ -55,37 +54,15 @@ I'm a **3rd-year B.Tech CS student at KIIT University** with a strong focus on b
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
+## 🛠️ What I've Actually Built
 
-## 🚀 Featured Projects
-
-### 🔹 [Sentix – Sentiment Analysis Platform](https://github.com/Soumit-san)
-> PyTorch · HuggingFace · ONNX · FastAPI · React · Celery · Redis · Docker
-
-End-to-end sentiment analysis platform for multi-app reviews using fine-tuned **BERT (0.90 Macro F1)**, optimized with ONNX for **3–5× faster inference**. Features a React + FastAPI dashboard with sentiment trends, aspect-level insights, and mismatch detection.
-
----
-
-### 🔹 [SkillDelta – AI Skill Decay Tracker](https://skilldelta.vercel.app)
-> FastAPI · PostgreSQL · SQLAlchemy · Groq · Docker · Hugging Face Spaces
-
-SaaS-based skill tracking system with JWT auth, OCR document parsing, Groq AI integration, and async task scheduling. Deployed on Hugging Face Spaces with SendGrid email support.
-
----
-
-### 🔹 [Credify – AI Misinformation Detector](https://github.com/Soumit-san)
-> Python · FastAPI · spaCy · Groq API · PostgreSQL · React · Vercel
-
-GenAI-powered platform using LLM reasoning and spaCy NLP to verify factual claims in real time, with persistent history in PostgreSQL.
-
----
-
-## 💼 Experience
-
-**AI Intern @ Pinnacle Labs** *(May 2025 – Jun 2025 | Remote)*
-- Built a production-ready **resume parser** using spaCy NLP, reducing manual screening by ~70%
-- Developed a **multilingual translator** Android app with Google Translate API (10+ languages)
-
----
+| Project | What It Does | Stack |
+|---|---|---|
+| 🧠 **Sentix** | End-to-end sentiment analysis for multi-app reviews with aspect-level insights & mismatch detection | PyTorch, HuggingFace, ONNX, FastAPI, React, Redis, Docker |
+| 📉 **SkillDelta** | SaaS skill decay tracker with OCR doc parsing, JWT auth & AI-powered decay scoring | FastAPI, PostgreSQL, Groq, SQLAlchemy, Docker, Hugging Face Spaces |
+| 🔍 **Credify** | GenAI misinformation detector that verifies factual claims in real time using LLM reasoning | FastAPI, spaCy, Groq API, PostgreSQL, React, Vercel |
+| 📄 **Resume Parser** | Production-ready NLP pipeline that automates candidate data extraction, cutting screening effort by ~70% | Python, spaCy, REST API |
+| 🌐 **Multilingual Translator** | Cross-platform Android app for real-time translation across 10+ languages | Android Studio, Google Translate API, Java |
 
 ## 🏆 Certifications
 - 🥇 **AWS Certified Cloud Practitioner** – Amazon Web Services
